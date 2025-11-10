@@ -18,6 +18,8 @@ Our platform aims to connect companies that want to implement a waste management
 |João Vitor|Designer (UX/UI)|
 |Raul Francisco|DevOps/BackEnd|
 
+<hr>
+
 ## 🖥️ Technologies used
 Impacto Circular is an app/platform that uses Python and MySQL technologies. It also offers courses and mentoring for companies.
 
