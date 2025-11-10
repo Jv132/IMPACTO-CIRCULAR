@@ -30,7 +30,7 @@ ALL TECHNOLOGIES USED IN THE PROJECT:
 - Canva
 - Discord
 
-## 🖥️ How to use
+## 🔑 Functions in the app
 - Functions for cooperatives: 
   - Waste management, collection and recording of transport data.
 - Functions for companies:
