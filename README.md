@@ -23,7 +23,12 @@ Our platform aims to connect companies that want to implement a waste management
 ## 🖥️ Technologies used
 Impacto Circular is an app/platform that uses Python and MySQL technologies. It also offers courses and mentoring for companies.
 
-(ALL TECHNOLOGIES USED IN THE PROJECT: Python, MySQL, Figma, Canva, Discord)
+ALL TECHNOLOGIES USED IN THE PROJECT:
+- Python
+- MySQL
+- Figma
+- Canva
+- Discord
 
 ## 🖥️ How to use
 - Functions for cooperatives: 
